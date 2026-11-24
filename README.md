@@ -15,10 +15,10 @@ Customer segmentation using **K-Means** (unsupervised learning) on credit card u
 - **Programming Language**: Python
 - **Environment**: Jupyter Notebook
 - **Machine Learning Model**: K-Means (clustering algorithm)
-- **Bibliotecas**: pandas, numpy, matplotlib, seaborn e sklearn
+- **Libraries**: pandas, numpy, matplotlib, seaborn e sklearn
 
 <h3>Dataset</h3>
 
 - **Author**: Arjun Bhasin  
 - **Link**: [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
-- **Algorithm used**: K-Means (Unsupervised Learning)
+- **Algorithm used**: K-Means (unsupervised learning)
