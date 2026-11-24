@@ -1,19 +1,24 @@
-## 🇺🇸 - About the Project
+<div align="right">
+  <b>Language:</b> 
+  <b>🇺🇸 English</b> |
+  <a href="./README.pt-br.md">🇧🇷 Portuguese</a>
+</div>
 
-**Credit Card Customer Segmentation**  
-Customer segmentation using **K-Means** unsupervised learning on credit card usage data to identify high-value buyers, occasional users, and cash-advance revolvers
+<div align="center">
+  <h2>Credit Card Customer Segmentation</h2>
+</div>
 
-**Dataset**  
+Customer segmentation using **K-Means** (unsupervised learning) on credit card usage data to identify high-value buyers, occasional users, and cash-advance revolvers<br>
+
+<h3>Technologies and Technical Details</h3>
+
+- **Programming Language**: Python
+- **Environment**: Jupyter Notebook
+- **Machine Learning Model**: K-Means (clustering algorithm)
+- **Bibliotecas**: pandas, numpy, matplotlib, seaborn e sklearn
+
+<h3>Dataset</h3>
+
 - **Author**: Arjun Bhasin  
 - **Link**: [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 - **Algorithm used**: K-Means (Unsupervised Learning)
-
-## 🇧🇷 - Sobre o projeto
-
-**Segmentação de Clientes de Cartão de Crédito**  
-Segmentação de clientes utilizando K-Means (aprendizado não supervisionado) em dados de uso de cartão de crédito para identificar compradores VIP, usuários ocasionais e financiadores de saque.
-
-**Dataset**
-- **Autor**: Arjun Bhasin 
-- **Link**: [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
-- **Algoritmo utilizado**: K-Means (Aprendizado Não Supervisionado)
